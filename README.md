@@ -23,7 +23,7 @@ Token Symbol<br>
 `STAR`
 
 
-Contract Address<br>
+Contract Address (rinkeby)<br>
 
 `0x03f7c052d91addcc8beb06da25618f75c1a49c019191b1e6543f57f4923a0dfe`
 
