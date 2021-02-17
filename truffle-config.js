@@ -27,7 +27,8 @@ const infuraKey = "7c244ff134814e02a57bf32a4af11289";
 
 // const fs = require('fs');
 // const mnemonic = "budget plug aim piece snap plate priority cabbage quit sentence zone fold"  //fs.readFileSync(".secret").toString().trim();
-const mnemonic = "budget plug aim piece snap plate priority cabbage quit sentence zone fold"
+// const mnemonic = "budget plug aim piece snap plate priority cabbage quit sentence zone fold"
+const mnemonic = "quantum plate diet paper brave monster goose slice vapor double pact retreat"
 
 module.exports = {
   /**
